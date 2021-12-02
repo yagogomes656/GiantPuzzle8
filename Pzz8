@@ -1,4 +1,4 @@
-#Solução pela soma de partes
+#Solução por memoização
 
 #Pacote usado para trabalhar com números muito grandes e brutais
 #install.packages('gmp')
